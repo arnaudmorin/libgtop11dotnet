@@ -1,3 +1,15 @@
+libgtop11dotnet (2.2.0.13-0~ppa+bionic1) bionic; urgency=medium
+
+  * Bionic package
+
+ -- Arnaud Morin <arnaud.morin@gmail.com>  Thu, 22 Mar 2018 21:50:23 +0000
+
+libgtop11dotnet (2.2.0.13-0~ppa+artful2) artful; urgency=medium
+
+  * Come back to compat 8
+
+ -- Arnaud Morin <arnaud.morin@gmail.com>  Thu, 22 Mar 2018 21:41:01 +0000
+
 libgtop11dotnet (2.2.0.13-0~ppa+artful1) artful; urgency=medium
 
   * Upgrade sources
